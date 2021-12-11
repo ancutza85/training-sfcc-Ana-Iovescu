@@ -1,0 +1,5 @@
+<isset name="sessionVar" value="${1}" scope = "session"/>
+<isset name="productID" value="${pdict.ProductMgr}" scope="page"/>
+<isinclude template="product/productTile" />
+<isinclude url="${URLUtils.your_storefront_url>/ShowProduct-Start?pid=P0048M('Tile-Show', 'pid', productID, 'swatches', true, 'ratings', true, 'showQuickView', false)}" />
+

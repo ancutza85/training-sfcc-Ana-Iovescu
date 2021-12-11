@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="ancutza_codrea@yahoo.com" enabled-flag="true">
+        <credentials>
+            <external-id>d8333a99-83b2-4afd-b6bc-3e8f956eac68</external-id>
+        </credentials>
+        <profile>
+            <first-name>Ana-Macrina</first-name>
+            <last-name>Iovescu</last-name>
+            <email>ancutza_codrea@yahoo.com</email>
+        </profile>
+    </user>
+
+</users>
